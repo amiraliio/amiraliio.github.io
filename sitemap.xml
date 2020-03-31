@@ -1,0 +1,72 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    <url>
+      <loc>https://amiraliio.github.io/about/</loc>
+      
+      <lastmod>2020-03-31T03:36:20+04:30</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://amiraliio.github.io/categories/</loc>
+      
+      <lastmod>2020-03-31T03:36:20+04:30</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://amiraliio.github.io/</loc>
+      
+      <lastmod>2020-03-31T03:36:20+04:30</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://amiraliio.github.io/categories/my-story/</loc>
+      
+      <lastmod>2020-03-31T03:36:20+04:30</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://amiraliio.github.io/tags/</loc>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+</urlset>

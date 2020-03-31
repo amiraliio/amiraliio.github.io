@@ -1,0 +1,22 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Home</title>
+    <link>https://amiraliio.github.io/</link>
+    <description>Recent content in Home on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 31 Mar 2020 03:36:20 +0430</lastBuildDate>
+    <atom:link href="https://amiraliio.github.io/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About me</title>
+      <link>https://amiraliio.github.io/about/</link>
+      <pubDate>Tue, 31 Mar 2020 03:36:20 +0430</pubDate>
+      
+      <guid>https://amiraliio.github.io/about/</guid>
+      <description>&lt;p&gt;I am a dedicated and flexible software engineer that graduated with a bachelor&amp;rsquo;s degree in Software Engineering, I have more than 8 years of commercial experience with a wide range of team size in software development. Meanwhile, I&amp;rsquo;m eager to learn and enjoy my work.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
