@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Home</title>
-    <link>https://amiraliio.github.io/categories/</link>
+    <link>https://dc00der.dev/categories/</link>
     <description>Recent content in Categories on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 31 Mar 2020 03:36:20 +0430</lastBuildDate>
     
-	<atom:link href="https://amiraliio.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dc00der.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My Story</title>
-      <link>https://amiraliio.github.io/categories/my-story/</link>
+      <link>https://dc00der.dev/categories/my-story/</link>
       <pubDate>Tue, 31 Mar 2020 03:36:20 +0430</pubDate>
       
-      <guid>https://amiraliio.github.io/categories/my-story/</guid>
+      <guid>https://dc00der.dev/categories/my-story/</guid>
       <description></description>
     </item>
     
