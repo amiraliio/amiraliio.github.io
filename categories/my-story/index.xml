@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Story on Home</title>
-    <link>https://dc00der.dev/categories/my-story/</link>
+    <link>https://bitcodr.dev/categories/my-story/</link>
     <description>Recent content in My Story on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 31 Mar 2020 03:36:20 +0430</lastBuildDate>
     
-	<atom:link href="https://dc00der.dev/categories/my-story/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bitcodr.dev/categories/my-story/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About me</title>
-      <link>https://dc00der.dev/about/</link>
+      <link>https://bitcodr.dev/about/</link>
       <pubDate>Tue, 31 Mar 2020 03:36:20 +0430</pubDate>
       
-      <guid>https://dc00der.dev/about/</guid>
+      <guid>https://bitcodr.dev/about/</guid>
       <description>I am a dedicated and flexible software engineer that graduated with a bachelor&amp;rsquo;s degree in Software Engineering, I have more than 8 years of commercial experience with a wide range of team size in software development. Meanwhile, I&amp;rsquo;m eager to learn and enjoy my work.</description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>https://dc00der.dev/2020/first-post/</link>
+      <link>https://bitcodr.dev/2020/first-post/</link>
       <pubDate>Tue, 31 Mar 2020 02:57:59 +0430</pubDate>
       
-      <guid>https://dc00der.dev/2020/first-post/</guid>
+      <guid>https://bitcodr.dev/2020/first-post/</guid>
       <description>Hello World, I&amp;rsquo;ll start blogging about software development, engineering, and my experiences.</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Home</title>
-    <link>https://dc00der.dev/posts/</link>
+    <link>https://bitcodr.dev/posts/</link>
     <description>Recent content in Posts on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 31 Mar 2020 02:57:59 +0430</lastBuildDate>
     
-	<atom:link href="https://dc00der.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bitcodr.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>https://dc00der.dev/2020/first-post/</link>
+      <link>https://bitcodr.dev/2020/first-post/</link>
       <pubDate>Tue, 31 Mar 2020 02:57:59 +0430</pubDate>
       
-      <guid>https://dc00der.dev/2020/first-post/</guid>
+      <guid>https://bitcodr.dev/2020/first-post/</guid>
       <description>Hello World, I&amp;rsquo;ll start blogging about software development, engineering, and my experiences.</description>
     </item>
     
